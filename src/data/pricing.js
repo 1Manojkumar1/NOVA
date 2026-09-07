@@ -1,0 +1,47 @@
+export const plans = [
+  {
+    name: "Starter",
+    tagline: "For personal projects",
+    monthly: 0,
+    annual: 0,
+    cta: "Start for free",
+    featured: false,
+    features: [
+      "Up to 3 projects",
+      "Basic task management",
+      "1 GB storage",
+      "Community support",
+    ],
+  },
+  {
+    name: "Pro",
+    tagline: "For growing teams",
+    monthly: 19,
+    annual: 15,
+    cta: "Start free trial",
+    featured: true,
+    features: [
+      "Unlimited projects",
+      "AI task automation",
+      "AI knowledge hub",
+      "Workflow analytics",
+      "40+ integrations",
+      "Priority support",
+    ],
+  },
+  {
+    name: "Business",
+    tagline: "For organizations",
+    monthly: 49,
+    annual: 39,
+    cta: "Talk to sales",
+    featured: false,
+    features: [
+      "Everything in Pro",
+      "SSO & audit logs",
+      "Advanced permissions",
+      "Dedicated manager",
+      "99.99% uptime SLA",
+    ],
+  },
+];

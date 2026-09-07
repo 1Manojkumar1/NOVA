@@ -88,15 +88,13 @@ npm run preview
 
 ## Live Demo
 
-https://nova-landing.vercel.app
+https://nova-ai-tawny-three.vercel.app
 
-*Deployed on Vercel. Replace with actual URL after deployment.*
+*Deployed on Vercel.*
 
 ## GitHub
 
-https://github.com/yourusername/nova-landing
-
-*Replace with actual repository URL after creation.*
+https://github.com/1Manojkumar1/NOVA
 
 ## Project Structure
 
@@ -333,10 +331,10 @@ All code was **reviewed, understood, and validated** by the developer. No blind 
 - [x] SEO metadata (title, description, OG, Twitter)
 - [x] README.md created
 - [x] INTERVIEW_NOTES.md created
-- [ ] Push to GitHub
-- [ ] Connect to Vercel
-- [ ] Deploy and verify live URL
-- [ ] Update README with real URLs
+- [x] Push to GitHub
+- [x] Connect to Vercel
+- [x] Deploy and verify live URL
+- [x] Update README with real URLs
 - [ ] Add screenshots
 
 ---

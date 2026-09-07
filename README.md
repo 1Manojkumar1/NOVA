@@ -52,11 +52,9 @@ Built as an internship assignment submission showcasing front-end development, U
 
 | Desktop | Mobile |
 |---------|--------|
-| ![Desktop Hero](screenshots/desktop-hero.png) | ![Mobile Hero](screenshots/mobile-hero.png) |
-| ![Desktop Features](screenshots/desktop-features.png) | ![Mobile Menu](screenshots/mobile-menu.png) |
-| ![Desktop Pricing](screenshots/desktop-pricing.png) | ![Mobile Testimonials](screenshots/mobile-testimonials.png) |
-
-*Screenshots to be added after deployment.*
+| ![Desktop Hero](screenshots/desktop-hero.png) | ![Mobile Hero](screenshots/mobile-hero.jpeg) |
+| ![Desktop Features](screenshots/desktop-features.png) | ![Mobile Menu](screenshots/mobile-menu.jpeg) |
+| ![Desktop Pricing](screenshots/desktop-pricing.png) | ![Mobile Testimonials](screenshots/mobile-testimonials.jpeg) |
 
 ## Installation
 
@@ -335,7 +333,7 @@ All code was **reviewed, understood, and validated** by the developer. No blind 
 - [x] Connect to Vercel
 - [x] Deploy and verify live URL
 - [x] Update README with real URLs
-- [ ] Add screenshots
+- [x] Add screenshots
 
 ---
 
